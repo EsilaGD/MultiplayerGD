@@ -1,5 +1,5 @@
 {
-  "geode": "5.11.2",
+  "geode": "5.11.0",
   "gd": {
     "win": "2.2091",
     "android": "2.2091",
@@ -10,8 +10,23 @@
   "name": "Multiplayer",
   "version": "1.10",
   "developer": "Esila(EsilaGD)",
-  "description": "Allows you play Race Player in real time"
-}
-"dependencies": {
-  "geode.node-ids": ">=v1.23.3"
+  "description": "Allows you play Race Player in real time",
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  },
+  "settings": {
+    "disable-trail": {
+      "name": "disable trail",
+      "description": "disable trail for player (Note: you wont see player trail or wave trail).",
+      "type": "bool",
+      "default": true
+  },
+  "settings": {
+    "disable-player": {
+      "name": "disable player",
+      "description": "disable player (Note: you wont see player but you can see how player will be win).",
+      "type": "bool",
+      "default": true
+    }
+  }
 }
