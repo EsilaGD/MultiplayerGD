@@ -1,0 +1,17 @@
+{
+  "geode": "5.11.2",
+  "gd": {
+    "win": "2.2091",
+    "android": "2.2091",
+    "mac": "2.2091",
+    "ios": "2.2091"
+  },
+  "id": "esila.multiplayer",
+  "name": "Multiplayer",
+  "version": "1.10",
+  "developer": "Esila(EsilaGD)",
+  "description": "Allows you play Race Player in real time"
+}
+"dependencies": {
+  "geode.node-ids": ">=v1.23.3"
+}
