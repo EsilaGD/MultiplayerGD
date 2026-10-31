@@ -13,6 +13,8 @@
   "description": "Allows you play Race Player in real time",
   "dependencies": {
     "geode.node-ids": ">=v1.23.3"
+    "incompatibilities": {
+    "tipp2.versus": "v0.1.0"
   },
   "settings": {
     "disable-trail": {
