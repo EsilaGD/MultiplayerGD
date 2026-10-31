@@ -11,7 +11,8 @@ Featured
 ## Note
 
 please dont angry me, last time i forked every and mod developer saw me because I-I created pull request and GitHub owner Message me everytime I get e-e-error of Build.yml working D;
-Rules
+
+## Rules
 
 Now this is rule of pull request
 * if you want help me, Report me but only you know how to code
